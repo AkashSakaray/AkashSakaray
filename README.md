@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Scientist 
 - 💞️ I am passionate on Data scientist
 - 📊I am friendly with tools like SQL, Tableau, MongoDb, Pyhton...
-- 📫 How to reach me < akashsakaray@gmail.com >
+- 📫 How to reach me < akashsakaray@gmail.com > < www.linkedin.com/in/akash-sakaray-558762226 >
 - ⚡ Fun fact: In free time I love to play games and explore nee topic 
 
 <!---
